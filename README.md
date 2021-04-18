@@ -41,23 +41,23 @@ mot de passe : 1234
 état des comptes :
     - compte 1 : 100
     - compte 2 : 3000
-    - compte 3 : ...
+    - compte 3 : vide
 
 - client 2 :
 identifiant : camille
 mot de passe : 1234
 état des comptes :
     - compte 1 : 500
-    - compte 2 : ...
-    - compte 3 : ...
+    - compte 2 : vide
+    - compte 3 : vide
 
 - client 3 :
 identifiant : maria
 mot de passe : 1234
 état des comptes :
     - compte 1 : 10000
-    - compte 2 : ...
-    - compte 3 : ...
+    - compte 2 : vide
+    - compte 3 : vide
 
 ### Les étapes à suivre pour effectuer une action 
 1. Envoyer un premier message pour initialiser la communication
